@@ -38,7 +38,7 @@ footer {
     /* Set margin on top to be 60 pixels */
 }
 
-@media (max-width: 600px) {
+@media () {
 
     body {
         /* Set background-color of the body to be purple with wite text */
