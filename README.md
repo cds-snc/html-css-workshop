@@ -4,6 +4,7 @@ Today we'll be using this basic HTML template as the starting point for a simple
 
 1. Click the "Download ZIP" button and save the .zip file onto your computer (the desktop is a great place for a project like this). 
 2. Once saved, unzip the archived folder (double-clicking). 
-3. Drag the unzipped folder into your empty editor window and we're ready to go.
+3. In VSCode go to file --> Open Folder --> Downloads --> Choose html-css-workshop!
+  3a. Or in Sublime Text just drag and drop the folder to open!
 
 Let's get started!
